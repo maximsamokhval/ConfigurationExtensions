@@ -8,8 +8,8 @@
 		</Metadata>
 		<Metadata name="Catalog.Расширение_Шаблоны.Form.ФормаЭлемента" id="207ea15c-85c2-4397-b7c6-30ec212ce118" configVersion="eddc39d5675b9738e97c59801236405ff2b416d0"/>
 		<Metadata name="Catalog.Расширение_Шаблоны.Form.ФормаЭлемента.Form" id="207ea15c-85c2-4397-b7c6-30ec212ce118.0" configVersion="2dfa08dba36b9feb74a2d514ca8a5b2d4af23ebe"/>
-		<Metadata name="Catalog.Расширение_Шаблоны.ManagerModule" id="72e683f6-aa77-462c-80de-81b710878c9a.3" configVersion="1d38ae648c377598103a629efd582d872f99daaf"/>
-		<Metadata name="Configuration.Управление_Шаблонами" id="bb20a4fc-18a9-4bec-a0d5-52966da44617" configVersion="bb8290b17779bd1cc32da728a06908fb91badb56"/>
+		<Metadata name="Catalog.Расширение_Шаблоны.ManagerModule" id="72e683f6-aa77-462c-80de-81b710878c9a.3" configVersion="36ea05786aff6fa64367ef57b02c413b724a9954"/>
+		<Metadata name="Configuration.Управление_Шаблонами" id="bb20a4fc-18a9-4bec-a0d5-52966da44617" configVersion="6ddca24998344e4709c93f2ae45315e73daeba34"/>
 		<Metadata name="Enum.НазначениеШаблона" id="d363d6a3-22ba-4c3b-adbd-7d4ffe6505f1" configVersion="867f0ac7c6e275f7d208506d8dfe4e09a1c92f9d">
 			<Metadata name="Enum.НазначениеШаблона.EnumValue.Другое" id="c75d9a95-9294-4e56-8b5a-536bf794217f"/>
 			<Metadata name="Enum.НазначениеШаблона.EnumValue.Telegram" id="d8aa4ca7-b69e-4629-982e-2206be327d4c"/>
