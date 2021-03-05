@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.9">
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.11">
 	<Configuration uuid="bb20a4fc-18a9-4bec-a0d5-52966da44617">
 		<InternalInfo>
 			<xr:ContainedObject>
@@ -26,9 +26,13 @@
 				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
 				<xr:ObjectId>e5c15a6d-4e78-4cc9-a4ed-3cf1d06ca893</xr:ObjectId>
 			</xr:ContainedObject>
+			<xr:ContainedObject>
+				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
+				<xr:ObjectId>649487fb-e907-4cef-9bf1-06eea8cbb0f2</xr:ObjectId>
+			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
-			<Name>УправлениеШаблонами</Name>
+			<Name>Управление_Шаблонами</Name>
 			<Synonym>
 				<v8:item>
 					<v8:lang>uk</v8:lang>
@@ -47,18 +51,28 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor>maxim.samokhval@gmail.com</Vendor>
-			<Version>1.0.0</Version>
+			<Version>2.0.0.0</Version>
 			<DefaultLanguage>Language.Украинский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
-			<Copyright/>
+			<Copyright>
+				<v8:item>
+					<v8:lang>uk</v8:lang>
+					<v8:content>maxim.samokhval@gmail.com</v8:content>
+				</v8:item>
+			</Copyright>
 			<VendorInformationAddress/>
-			<ConfigurationInformationAddress/>
+			<ConfigurationInformationAddress>
+				<v8:item>
+					<v8:lang>uk</v8:lang>
+					<v8:content>https://github.com/maximsamokhval/ConfigurationExtensions</v8:content>
+				</v8:item>
+			</ConfigurationInformationAddress>
 			<InterfaceCompatibilityMode>Taxi</InterfaceCompatibilityMode>
 		</Properties>
 		<ChildObjects>
 			<Language>Украинский</Language>
-			<Subsystem>УправлениеШаблонами</Subsystem>
+			<Subsystem>Управление_Шаблонами</Subsystem>
 			<Catalog>Расширение_Шаблоны</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Enum>НазначениеШаблона</Enum>
