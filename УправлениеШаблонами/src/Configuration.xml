@@ -28,7 +28,7 @@
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
-				<xr:ObjectId>649487fb-e907-4cef-9bf1-06eea8cbb0f2</xr:ObjectId>
+				<xr:ObjectId>4f5a976c-14c5-4951-9d0c-7a9b25ca2a6c</xr:ObjectId>
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
@@ -51,17 +51,17 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor>maxim.samokhval@gmail.com</Vendor>
-			<Version>2.0.0.1</Version>
+			<Version>2.0.0.0</Version>
 			<DefaultLanguage>Language.Украинский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
-			<Copyright>
+			<Copyright/>
+			<VendorInformationAddress>
 				<v8:item>
 					<v8:lang>uk</v8:lang>
-					<v8:content>maxim.samokhval@gmail.com</v8:content>
+					<v8:content>https://t.me/maksym_samokhval</v8:content>
 				</v8:item>
-			</Copyright>
-			<VendorInformationAddress/>
+			</VendorInformationAddress>
 			<ConfigurationInformationAddress>
 				<v8:item>
 					<v8:lang>uk</v8:lang>
